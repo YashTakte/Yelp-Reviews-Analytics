@@ -10,7 +10,7 @@ This project analyzes Yelp's open dataset to extract customer sentiment patterns
 
 ## Architecture
 
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram](https://github.com/YashTakte/Yelp-Reviews-Analytics/blob/main/Architecture%20Diagram.png)
 
 **Data Flow:**
 1. JSON data ingestion from Yelp dataset (5GB reviews, 100MB businesses)
